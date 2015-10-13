@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.moodlemoot.mootes14"
+        id        = “com.elreto67.plataforma”
         versionCode = "1"
         version   = "1.00">
     <name>Plataforma Reto67</name>
